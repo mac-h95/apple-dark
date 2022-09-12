@@ -1,0 +1,21 @@
+{
+  "name": "apple-dark",
+  "displayName": "apple dark",
+  "description": "A color theme based on Apple's human interface guidelines",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Apple Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Apple Dark-color-theme.json"
+      }
+    ]
+  }
+}
