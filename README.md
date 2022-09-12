@@ -1,16 +1,10 @@
-# apple-dark README
+# Apple Dark
 
-## Working with Markdown
+A clean dark theme, drawing inspiration from Apple's human interface guidelines.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+I recommend using this [product icon theme](https://marketplace.visualstudio.com/items?itemName=UjjwalBarman.kamekazi-dark).
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Source/Inspiration
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+[Apple's Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
+[Apple Concept Theme](https://marketplace.visualstudio.com/items?itemName=HunterWoodall.apple-concept-theme)
